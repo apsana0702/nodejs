@@ -1,0 +1,19 @@
+{
+  "name": "appu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "hjs": "0.0.6",
+    "hogan-middleware": "^0.2.2",
+    "nodemailer": "^6.7.6",
+    "upper-case": "^2.0.2",
+    "xoauth2": "^1.2.0"
+  }
+}
